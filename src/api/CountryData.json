@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "Country": "Japan",
+    "population": 125800000,
+    "capital": "Tokyo",
+    "interestingFact": "Japan has more than 5 million vending machines, many selling unusual items like eggs or ramen."
+  },
+  {
+    "id": 2,
+    "Country": "Brazil",
+    "population": 214300000,
+    "capital": "Brasília",
+    "interestingFact": "Brazil is home to about 60% of the Amazon Rainforest."
+  },
+  {
+    "id": 3,
+    "Country": "India",
+    "population": 1417000000,
+    "capital": "New Delhi",
+    "interestingFact": "India is the world’s largest democracy by population."
+  },
+  {
+    "id": 4,
+    "Country": "Iceland",
+    "population": 376000,
+    "capital": "Reykjavík",
+    "interestingFact": "Iceland has no mosquitoes, despite its many lakes and wetlands."
+  },
+  {
+    "id": 5,
+    "Country": "Canada",
+    "population": 39340000,
+    "capital": "Ottawa",
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 6,
+    "Country": "Australia",
+    "population": 26800000,
+    "capital": "Canberra",
+    "interestingFact": "Australia is home to more kangaroos than people."
+  },
+  {
+    "id": 7,
+    "Country": "Egypt",
+    "population": 112700000,
+    "capital": "Cairo",
+    "interestingFact": "Ancient Egyptians invented the 365-day calendar based on the sun."
+  },
+  {
+    "id": 8,
+    "Country": "South Korea",
+    "population": 51780000,
+    "capital": "Seoul",
+    "interestingFact": "South Korea has the fastest average internet speed in the world."
+  },
+  {
+    "id": 9,
+    "Country": "Norway",
+    "population": 5430000,
+    "capital": "Oslo",
+    "interestingFact": "Norway was the first country to ban deforestation."
+  },
+  {
+    "id": 10,
+    "Country": "Chile",
+    "population": 19600000,
+    "capital": "Santiago",
+    "interestingFact": "Chile is home to the Atacama Desert, one of the driest places on Earth."
+  }
+]
