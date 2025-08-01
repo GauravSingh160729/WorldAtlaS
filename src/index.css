@@ -33,24 +33,6 @@ header {
 }
 
 /* Responsive navbar */
-@media (max-width: 768px) {
-  nav ul {
-    flex-direction: column;
-    width: 100%;
-    align-items: flex-start;
-    margin-top: 1rem;
-  }
-}
-
-  nav ul {
-    flex-direction: column;
-    gap: 10px;
-    padding: 10px 0;
-  }
-
-  .log h1 {
-    margin-bottom: 10px;
-  }
 
 
 .right img {
